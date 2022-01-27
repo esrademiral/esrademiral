@@ -1,4 +1,4 @@
-- 👩🏻‍💻👩🏻‍🔬👋 Hi, I’m @esrademiral
+- 👋 Hi, I’m @esrademiral
 - 👀 I’m interested in Computational Biology, Bioinformatics, Biostatistics and Systems Biology.
 - 🌱 I’m currently learning Machine Learning, RNA-Seq.
 - 💞️ I’m looking to collaborate on R Programming (Clinical Data)
