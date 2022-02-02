@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on R Programming (Clinical Data)
 - 📫 How to reach me esrademirall@gmail.com
 
-<img align='right' src="https://giphy.com/stickers/woman-women-albaparis-uWckQ7YmkJIfMIPsZE" width="230">
+
 
 
 
@@ -14,3 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=esrademiral&theme=dark&show_icons=true"/>
+
+**Visitors Count**  
+![VisitorCount](https://profile-counter.glitch.me/{esrademiral}/count.svg)
