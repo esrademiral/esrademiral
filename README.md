@@ -4,7 +4,13 @@
 - 💞️ I’m looking to collaborate on R Programming (Clinical Data)
 - 📫 How to reach me esrademirall@gmail.com
 
+<img align='right' src="https://giphy.com/stickers/woman-women-albaparis-uWckQ7YmkJIfMIPsZE" width="230">
+
+
+
 <!---
 esrademiral/esrademiral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
