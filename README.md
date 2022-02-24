@@ -14,6 +14,12 @@ esrademiral/esrademiral is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+### Connect with me:
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/esrademiral/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/esrademiral/)
+&nbsp;&nbsp;
+
 ### Languages and Tools:
 
 <img align="left" alt="PYTHON" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
