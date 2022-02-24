@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/esrademiral/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/esrademiral/)
+[![website](./linkedin-light.svg)](https://www.linkedin.com/in/esrademiral/)
+[![website](./linkedin-dark.svg)](https://www.linkedin.com/in/esrademiral/)
 &nbsp;&nbsp;
 
 ### Languages and Tools:
