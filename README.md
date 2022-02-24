@@ -1,6 +1,6 @@
 - 👩🏻‍🔬 Hi, I’m Esra! 
-- 🧬 I'm Molecular Biologist. I am doing my master's degree in the Bioinformatics Department.
-- 👀 I’m interested in Computational Biology, Bioinformatics, Biostatistics and Systems Biology.
+- 🧬 I'm Molecular Biologist. I am master student at the Department Bioinformatics.
+- 👀 I’m interested in Cancer Biology, Systems Biology, Clinical Bioinformatics and Machine Learning.
 - 🌱 I’m currently learning Machine Learning, RNA-Seq.
 - 👩🏻‍💻 I’m looking to collaborate on R Programming (Clinical Data)
 - 📩  How to reach me esrademirall@gmail.com
